@@ -1,0 +1,24 @@
+.header{
+  font: times;
+  color: white;
+  text-align:left;
+  background-color:  #06706b;
+  height: 120px;
+  padding: 5px;
+}
+.header h6{
+  padding-top:  12px;
+}
+.required{
+  color: red;
+}
+.checkBox{
+  background-color: #EDF2F4;
+  padding: 15px;
+  margin: 20px;
+  font-weight: 500;
+}
+.footer{
+  text-align: center;
+  padding: 3px;
+}

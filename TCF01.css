@@ -1,0 +1,25 @@
+.header{
+  color: white;
+  text-align:left;
+  background-color:  #06706b;
+  height: 120px;
+  padding: 15px;
+}
+.required{
+  color: red;
+}
+#pol{
+  width: 100%;
+  padding: 5px;
+}
+.form-group{
+  background-color:  #EDF2F4;
+}
+.affect{
+  background-color: #EDF2F4;
+  padding: 5px;
+}
+.footer{
+    text-align: center;
+    padding: 3px;
+  }
